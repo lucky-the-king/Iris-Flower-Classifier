@@ -16,5 +16,5 @@ The program downloads the training and testing datasets, training the model and 
 
 # Requirements
 
-Tensorflow  1.13.1
+Tensorflow  1.13.1  
 NumPy       1.16.4
