@@ -13,3 +13,8 @@ Classification is done from 4 features:
   4. Petal width
 
 The program downloads the training and testing datasets, training the model and saving it in the tmp/iris_model folder in the current directory, before testing and calculating accuracy.
+
+# Requirements
+
+Tensorflow  1.13.1
+NumPy       1.16.4
