@@ -11,3 +11,5 @@ Classification is done from 4 features:
   2. Sepal width
   3. Petal length
   4. Petal width
+
+The program downloads the training and testing datasets, training the model and saving it in the tmp/iris_model folder in the current directory, before testing and calculating accuracy.
