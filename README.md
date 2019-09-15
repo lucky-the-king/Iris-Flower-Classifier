@@ -14,7 +14,7 @@ Classification is done from 4 features:
 
 The program downloads the training and testing datasets, training the model and saving it in the tmp/iris_model folder in the current directory, before testing and calculating accuracy.
 
-Accuracy achieved: 96.66%
+Accuracy achieved: <b><i>96.66%</i></b>
 
 ## Requirements
 * Python 3.*
